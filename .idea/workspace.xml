@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7259c81a-8fa6-419f-a0be-216d505c14a7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/team-intro.js" afterPath="$PROJECT_DIR$/scripts/team-intro.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/team-intro.less" afterPath="$PROJECT_DIR$/styles/team-intro.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/team-intro.html" afterPath="$PROJECT_DIR$/team-intro.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styles/reset.min.css" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/reset.css" afterPath="$PROJECT_DIR$/styles/reset.css" />
     </list>
     <ignored path="Campussay-Team-Homepage.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -230,15 +228,15 @@
       <workItem from="1470720979705" duration="25247000" />
       <workItem from="1470752457114" duration="1181000" />
       <workItem from="1470787926840" duration="1180000" />
-      <workItem from="1470792734455" duration="13049000" />
+      <workItem from="1470792734455" duration="13519000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41391000" />
+    <option name="totallyTimeSpent" value="41861000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14427084" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -609,6 +607,14 @@
             <element signature="e#8157#8163#0" expanded="true" />
             <element signature="e#8176#8182#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/临时/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3775">
+          <caret line="151" column="19" selection-start-line="151" selection-start-column="19" selection-end-line="151" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
